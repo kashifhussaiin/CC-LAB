@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\passgen\passgen\bin\Debug\passgen.exe.config
+C:\Users\student\source\repos\passgen\passgen\bin\Debug\passgen.exe
+C:\Users\student\source\repos\passgen\passgen\bin\Debug\passgen.pdb
+C:\Users\student\source\repos\passgen\passgen\obj\Debug\passgen.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\passgen\passgen\obj\Debug\passgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\passgen\passgen\obj\Debug\passgen.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\passgen\passgen\obj\Debug\passgen.exe
+C:\Users\student\source\repos\passgen\passgen\obj\Debug\passgen.pdb
