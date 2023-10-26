@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\ccmid\ccmid\bin\Debug\ccmid.exe.config
+C:\Users\student\source\repos\ccmid\ccmid\bin\Debug\ccmid.exe
+C:\Users\student\source\repos\ccmid\ccmid\bin\Debug\ccmid.pdb
+C:\Users\student\source\repos\ccmid\ccmid\obj\Debug\ccmid.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ccmid\ccmid\obj\Debug\ccmid.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\ccmid\ccmid\obj\Debug\ccmid.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ccmid\ccmid\obj\Debug\ccmid.exe
+C:\Users\student\source\repos\ccmid\ccmid\obj\Debug\ccmid.pdb
