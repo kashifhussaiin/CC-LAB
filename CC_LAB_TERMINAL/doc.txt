@@ -1,1 +1,33 @@
+Compiler Construction Project - README
+
+Project Overview:
+----------------
+This project focuses on building a simple compiler for arithmetic expressions, designed to introduce fundamental concepts of lexical and syntax analysis, as well as basic code generation. Targeted towards beginner computer science students, the compiler provides a hands-on experience in understanding the core principles of compiler design.
+
+Features:
+---------
+1. **Lexical Analysis:** Tokenizes input source code into meaningful units (tokens) such as numbers, identifiers, and operators.
+
+2. **Syntax Analysis:** Parses the token stream to recognize and understand the structure of arithmetic expressions.
+
+3. **Code Generation:** Generates simple assembly-like code for basic arithmetic operations.
+
+4. **User Interaction:** Provides a console-based interface allowing users to input arithmetic expressions and observe the parsed results.
+
+Usage Instructions:
+-------------------
+1. Run the program using a .NET environment (e.g., Visual Studio).
+2. Enter arithmetic expressions when prompted.
+3. Observe the parsed results and generated code in the console.
+
+Challenges and Assumptions:
+---------------------------
+Challenges faced during development include devising a suitable parsing algorithm, implementing error handling mechanisms, and designing a user-friendly interface. Assumptions are made to simplify the project for beginner students, focusing on educational aspects rather than complex real-world scenarios.
+
+Future Improvements:
+---------------------
+Considerations for future improvements involve adding advanced features, enhancing the user interface, incorporating optimization techniques, and providing extensive documentation for educational purposes.
+
+Project by [Your Name]
+Date: [Current Date]
 
